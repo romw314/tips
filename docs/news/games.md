@@ -1,3 +1,6 @@
+|||
+|---|---|
+| [Tips](https://romw314.github.io/tips/) | **Game news** |
 # romw314's game news
 | Day | Month | Year | Game | Link |
 |---|---|---|---|---|
